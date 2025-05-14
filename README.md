@@ -1,4 +1,4 @@
-## Hello I`m Wahyu Arliansyah 👋
+<!-- ## Hello I`m Wahyu Arliansyah 👋 -->
 
 <!--
 **WahyuArliansyah/WahyuArliansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 
 ### Skills
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,php,java,figma,firebase,mysql" />
   </a>
-</p>
+</p> -->
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,php,java,figma,firebase,mysql&theme=dark)](https://skillicons.dev)
 
 <!--
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
