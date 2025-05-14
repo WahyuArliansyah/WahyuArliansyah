@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,php,java,figma,firebase,mysql&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,javascript,php,java,figma,firebase,mysql&theme=dark)
 
 ### Github Stats
 
