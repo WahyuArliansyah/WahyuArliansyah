@@ -22,14 +22,17 @@ Here are some ideas to get you started:
 
 ### Skills
 
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,php,java,figma,firebase,mysql&theme=dark)
+
+### Github Stats
+
+![Wahyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=WahyuArliansyah&show_icons=true&theme=radical)
+
 <!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,php,java,figma,firebase,mysql" />
   </a>
 </p> -->
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,php,java,figma,firebase,mysql&theme=dark)](https://skillicons.dev)
-
 <!--
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
