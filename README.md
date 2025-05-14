@@ -1,4 +1,4 @@
-<!-- ## Hello I`m Wahyu Arliansyah 👋 -->
+## Hello I`m Wahyu Arliansyah 👋
 
 <!--
 **WahyuArliansyah/WahyuArliansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,20 +17,16 @@ Here are some ideas to get you started:
 
 ![Wahyu Arliansyah](image/profil-header.png)
 
-🔭 I’m currently studying on **Global Institute**
-🌱 I’m currently learning **Flutter**
+- 🔭 I’m currently studying on **Global Institute**
+- 🌱 I’m currently learning **Flutter**
 
-##### Skills
+### Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,php,java,figma,firebase,mysql" />
   </a>
 </p>
-
-##### Social Media
-
-![https://www.instagram.com/wahyuarliansyah_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/wahyu-arliansyah-397718314/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
